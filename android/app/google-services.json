@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285915036195",
+    "project_id": "listent-d44c4",
+    "storage_bucket": "listent-d44c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285915036195:android:38fd06b06481abe1f94f96",
+        "android_client_info": {
+          "package_name": "com.example.listent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285915036195-fbia1ejt4ngatl4r9olb4j9dsdmq6mp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXq-01gB1ZrFqclA1ikqilj_4ImZULLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285915036195-fbia1ejt4ngatl4r9olb4j9dsdmq6mp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
